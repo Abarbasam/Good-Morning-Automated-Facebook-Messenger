@@ -13,4 +13,4 @@ This script can be automated with cron or a windows equivalent of cron.
 <br />
 
 # Running the program
-You must edit __Good_Morning.js__ and input your Facebook credentials and the Facebook ID of the person that you want to message. Then, run ```node Good_Morning.js```
+You must edit __Good_Morning.js__ and input your Facebook credentials (line 4 and 5) and the Facebook ID of the person that you want to message (line 35). Then, run ```node Good_Morning.js```
